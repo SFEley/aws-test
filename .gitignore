@@ -41,5 +41,7 @@ Thumbs.db
 ##############
 .Python
 /bin/*
+/build/*
+/db/*
 /include/*
 /lib/*
